@@ -70,6 +70,11 @@ Add BLIP-2/Q-Former style architecture
 Use UMLS concept supervision
 Train modality-specific models
 Retrieval-augmented caption generation
+
+<img width="1569" height="860" alt="image" src="https://github.com/user-attachments/assets/f03ba4d5-86f9-4f58-a146-bb44a587c743" />
+<img width="1338" height="771" alt="image" src="https://github.com/user-attachments/assets/84284e89-9051-462e-8b0e-417e83ddd6f9" />
+
+
 Author
 
 Madhab Padhi BML Munjal University, India
